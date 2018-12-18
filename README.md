@@ -26,11 +26,10 @@ ZotCopy is a shortcut key for Windows that automates the process of copying cita
 
 
 | Key     | Context        | Action                                          |
-|---------+----------------+-------------------------------------------------|
+|---------|----------------|-------------------------------------------------|
 | Win + z | Outside Zotero | Invoke ZotCopy and enter a search query.        |
 | Win + z | Within Zotero  | Paste the selected items into the invoking app. |
 | Escape  | Within Zotero  | Escape to the invoking app (cancel).            |
-
 
 
 
