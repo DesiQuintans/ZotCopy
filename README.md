@@ -16,12 +16,13 @@ ZotCopy is a shortcut key for Windows that automates the process of copying cita
 
 ## How to use ZotCopy
 
-1. Run ZotCopy and Zotero Standalone.
-2. At the place in your document where you want to insert citations, press `< Win + z >` to invoke a ZotCopy search prompt.
-3. Type a search query and hit `< Enter >`. It will be entered as a search in Zotero.
-4. Select the sources that you want to cite. Select multiple source with `< Ctrl + Click >`.
-5. To insert the citations, press `< Win + z >` again. They will be copied and inserted into your document.
-6. To cancel insertion, press `< Escape >` to go back to your document.
+1. Download **ZotCopy.exe** and place it anywhere. The other files are source files and not needed.
+2. Run ZotCopy and Zotero Standalone.
+3. At the place in your document where you want to insert citations, press `< Win + z >` to invoke a ZotCopy search prompt.
+4. Type a search query and hit `< Enter >`. It will be entered as a search in Zotero.
+5. Select the sources that you want to cite. Select multiple source with `< Ctrl + Click >`.
+6. To insert the citations, press `< Win + z >` again. They will be copied and inserted into your document.
+7. To cancel insertion, press `< Escape >` to go back to your document.
 
 
 | Key     | Context        | Action                                          |
